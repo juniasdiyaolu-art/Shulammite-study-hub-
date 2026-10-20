@@ -1,0 +1,6 @@
+{
+  "name": "Shullamite Study Hub",
+  "description": "Premium AI-powered educational platform for SS2 Science students preparing for Third Term examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
